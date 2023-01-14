@@ -1,0 +1,23 @@
+.recipe {
+  margin: 20px 0px;
+}
+
+.recipe-detail {
+  margin: 10px 0px;
+}
+
+.detail {
+  margin: 10px 0px;
+}
+
+.detail-input {
+  border: none;
+  border-bottom: 1px solid black;
+  margin: 2px 0px;
+}
+
+.detail-input-large {
+  width: 90%;
+  margin: 2px 0px;
+  border: none;
+}

@@ -1,0 +1,33 @@
+.selectDrug {
+  margin: 20px 0px;
+}
+
+.drug {
+  margin: 10px 0px;
+}
+
+.drugName-label {
+  margin-right: 20px;
+}
+
+/* .drugName-input {
+
+} */
+
+.drug-list {
+  margin: 10px 0px;
+}
+
+.list-banner {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.list-banner span {
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+}

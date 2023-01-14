@@ -1,0 +1,31 @@
+.patient-info {
+  margin: 20px 0px;
+}
+  
+.info-form {
+  margin: 10px auto;
+  width: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+  
+.input-field {
+  margin: 10px 0px;
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+  
+.info-label {
+  width: 100px;
+}
+
+.sex-info-label {
+  width: 50px;
+}
+
+.info-button {
+  margin: 20px 0px;
+}
